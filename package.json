@@ -1,0 +1,16 @@
+{
+  "name": "branching-exercises",
+  "version": "1.0.0",
+  "description": "JavaScript Branching Exercises Level 1, 2, 3, and 4",
+  "main": "EvenOrOdd.js",
+  "scripts": {
+    "EvenOrOdd": "node EvenOrOdd.js",
+    "PassOrFail": "PassOrFail.js",
+    "DayfromNumber": "DayfromNumber.js",
+    "LargestNumber": "LargestNumber.js",
+    "SimpleLogin": "SimpleLogin.js",
+    "TrafficLight": "TrafficLight.js",
+    "CashierProgram": "CashierProgram.js",
+    "ParkingFee": "ParkingFee.js"
+  }
+}
